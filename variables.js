@@ -1,16 +1,16 @@
-let name = "Alyssa Faye";
-console.log(name);
-//output: Alyssa Faye
+const name = "Alyssa Faye";
+console.log("My name is " + name);
+//output: My name is Alyssa Faye
 
 let whatDoYouWannaBecomeInYourLife = "programmer";
-console.log(whatDoYouWannaBecomeInYourLife);
-//output: programmer
+console.log("I want to become a " + whatDoYouWannaBecomeInYourLife);
+//output: I want to become a programmer
 
 let gender = "Female";
-console.log(gender);
-//output: Female
+console.log("Gender: " + gender);
+//output: Gender: Female
 
-let twitterHandle = "@uronurownquid";
-console.log(twitterHandle);
-//output: @uronurownquid
+const twitterHandle = "@youreonurownquid";
+console.log("Twitter handle: " + twitterHandle);
+//output: Twitter handle: @youreonurownquid
 
